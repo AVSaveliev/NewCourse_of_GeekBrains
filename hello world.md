@@ -8,3 +8,7 @@ Hello world!
 
 **Bold** полужирный
 
+*   Element one
+*   Element two
+*   Element three
+  
