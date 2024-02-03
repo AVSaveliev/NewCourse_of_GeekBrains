@@ -54,4 +54,4 @@ _**полужирный**_
 >> Second level of citation
 
 ## Заключение
-Learned  the basic git commands and Markdown
+Learned  the basic git commands and Markdown. Increased knowledge.
